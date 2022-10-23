@@ -1,0 +1,36 @@
+*{
+    background-color: rgb(90, 58, 58);
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+#imgalitarea{
+    border-radius: 300px;
+}
+
+#imgalitarea2{
+    width: 700px;
+    height: 400px;
+}
+
+.flexcontenedor{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.divInline{
+display: block;
+}
+
+#Hijos{
+    display: inline-block;
+}
+
+#Eventos Importantes{
+    display: inline-block;
+}
+
+h1{
+    font-size: 400%;
+}
